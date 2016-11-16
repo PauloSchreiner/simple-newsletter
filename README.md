@@ -1,0 +1,1 @@
+# Simple script sending newsletter in Python #
